@@ -1,0 +1,7 @@
+D:\Projects\CSharp\Monitor\Monitos\bin\Debug\Monitos.exe.config
+D:\Projects\CSharp\Monitor\Monitos\bin\Debug\Monitos.exe
+D:\Projects\CSharp\Monitor\Monitos\bin\Debug\Monitos.pdb
+D:\Projects\CSharp\Monitor\Monitos\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Monitor\Monitos\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Monitor\Monitos\obj\Debug\Monitos.exe
+D:\Projects\CSharp\Monitor\Monitos\obj\Debug\Monitos.pdb
