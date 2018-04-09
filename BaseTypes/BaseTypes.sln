@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseTypes", "BaseTypes\BaseTypes.csproj", "{931152B5-6673-4E3D-B7D0-0F1414F6F405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{3432CD3E-E4E2-46D3-913D-C833EE9A204C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931152B5-6673-4E3D-B7D0-0F1414F6F405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931152B5-6673-4E3D-B7D0-0F1414F6F405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931152B5-6673-4E3D-B7D0-0F1414F6F405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931152B5-6673-4E3D-B7D0-0F1414F6F405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3432CD3E-E4E2-46D3-913D-C833EE9A204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3432CD3E-E4E2-46D3-913D-C833EE9A204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3432CD3E-E4E2-46D3-913D-C833EE9A204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3432CD3E-E4E2-46D3-913D-C833EE9A204C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

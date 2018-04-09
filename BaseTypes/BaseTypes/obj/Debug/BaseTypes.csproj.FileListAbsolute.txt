@@ -1,0 +1,6 @@
+D:\DotNet\BaseTypes\BaseTypes\bin\Debug\BaseTypes.exe.config
+D:\DotNet\BaseTypes\BaseTypes\bin\Debug\BaseTypes.exe
+D:\DotNet\BaseTypes\BaseTypes\bin\Debug\BaseTypes.pdb
+D:\DotNet\BaseTypes\BaseTypes\obj\Debug\BaseTypes.csprojResolveAssemblyReference.cache
+D:\DotNet\BaseTypes\BaseTypes\obj\Debug\BaseTypes.exe
+D:\DotNet\BaseTypes\BaseTypes\obj\Debug\BaseTypes.pdb
