@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3432CD3E-E4E2-46D3-913D-C833EE9A204C}</ProjectGuid>
+    <ProjectGuid>{4A216286-209F-4E36-BFD6-8614759C8564}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Enum</RootNamespace>
-    <AssemblyName>Enum</AssemblyName>
+    <RootNamespace>Delegates1</RootNamespace>
+    <AssemblyName>Delegates1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

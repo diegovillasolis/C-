@@ -4,3 +4,9 @@ D:\DotNet\BaseTypes\Enum\bin\Debug\Enum.pdb
 D:\DotNet\BaseTypes\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
 D:\DotNet\BaseTypes\Enum\obj\Debug\Enum.exe
 D:\DotNet\BaseTypes\Enum\obj\Debug\Enum.pdb
+D:\CSharp\BaseTypes\Enum\bin\Debug\Enum.exe.config
+D:\CSharp\BaseTypes\Enum\obj\Debug\Enum.exe
+D:\CSharp\BaseTypes\Enum\obj\Debug\Enum.pdb
+D:\CSharp\BaseTypes\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+D:\CSharp\BaseTypes\Enum\bin\Debug\Enum.exe
+D:\CSharp\BaseTypes\Enum\bin\Debug\Enum.pdb
